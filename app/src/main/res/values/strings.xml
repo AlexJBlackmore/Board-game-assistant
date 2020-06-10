@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Board game assistant</string>
+    <string name="how_to_play">How it works:\n \n 1. Set up to 4 player names \n \n 2. Set the number of sides on the die \n \n 3. The app tracks whose go it is and generates your die rolls!</string>
+    <string name="start_button">Start</string>
+    <string name="welcome_message">Virtual board game assistant!</string>
+    <string name="who_s_playing_title">Who\'s playing?</string>
+    <string name="name_hint">Enter name here</string>
+    <string name="next_button">Next</string>
+    <string name="player_4_label">Player 4</string>
+    <string name="player_3_label">Player 3</string>
+    <string name="player_2_label">Player 2</string>
+    <string name="player_1_label">Player 1</string>
+    <string name="spinner_label">Number of sides</string>
+    <string name="what_dice_title">How many sides on the die?</string>
+    <string name="play_button">Play</string>
+    <string name="roll_button">Roll</string>
+    <string name="next_player_button">Next player</string>
+    <string name="your_go">it\'s your go! Tap \'roll\' for a number between 1 and</string>
+
+    <string-array name="spinner_array">
+        <item>6</item>
+        <item>12</item>
+        <item>20</item>
+        <item>36</item>
+    </string-array>
+
+</resources>
